@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-#include "NumCheck.h";
+#include "NumCheck.h"
 using namespace std;
 
 int main()
