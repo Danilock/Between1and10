@@ -9,5 +9,4 @@ int main()
 {
     NumCheck nm;
     nm.GetInput(1, 10);
-    nm.Check();
 }
