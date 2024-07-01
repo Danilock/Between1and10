@@ -8,7 +8,7 @@ public:
 	int Number;
 
 	void GetInput(int minValue, int maxValue) {
-		cout << "==== Type a number between 1 and 10 ==== \n";
+		cout << "==== Type a number between " << minValue << " and " << maxValue << " ==== \n";
 		cin >> Number;
 
 		if (Number < minValue || Number > maxValue) {
